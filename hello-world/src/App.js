@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/mindy-m/animated-garbanzo"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check out the repo!
         </a>
       </header>
     </div>
